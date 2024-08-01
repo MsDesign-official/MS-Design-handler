@@ -1,0 +1,16 @@
+{
+  "name": "ms-design-handler",
+  "version": "1.0.0",
+  "description": "ms-design robot | handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meduzadev",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "discord.js": "^13.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
